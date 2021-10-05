@@ -1,5 +1,6 @@
 # human_generator
-Generador de caras humanas con flutter y python
+Generador de caras humanas con flutter y python.
+
 Flutter and pyhton human faces generator
 
 This project allows you to generate from a neural network faces. The only input is a sketch of the person.
