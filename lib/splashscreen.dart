@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:human_generator/home.dart';
 import 'package:splash_screen_view/SplashScreenView.dart';
-import 'package:splash_screen_view/splash_screen_view.dart';
 
 class MySplash extends StatefulWidget {
   @override
