@@ -1,13 +1,25 @@
 # human_generator
-Generador de caras humanas con flutter y python.
 
-Flutter and pyhton human faces generator
 
+Flutter human faces generator(Front)
 This project allows you to generate from a neural network faces. The only input is a sketch of the person.
+Features:
+- dart - UI
+- dart - http
+- Flutter Project
 
+
+Generador de caras humanas con flutter y python.(Front)
 Este proyecto te permite generar caras a partir de una red neuronal. La única entrada es un boceto de la persona.
+Caracteristicas:
+- dart - UI
+- dart - http
+- Flutter Project
 
-![ejecucion](https://user-images.githubusercontent.com/30781044/136109211-9efd8cbf-f89b-41fe-82bf-08859bd2d1a1.png)
+************************************************
+
+Recursos para el desarrollo / Resources 
+
 Necesitas un servidor Rest Api Flask con la red neuronal para generar rostros(aqui los recursos).
 
 To generate faces you must have a Flask Server with the neural network(here the resources):
@@ -18,7 +30,3 @@ To generate faces you must have a Flask Server with the neural network(here the 
 
 -Notebook for Pix2Pix Algorithm(Algoritmo en google colab): https://www.dropbox.com/s/fcr6zgp9863awwd/HumanGeneratorNotebook.ipynb?dl=0.
 
-To run this project:
--download the zip file
--select a device
--Run the project 
